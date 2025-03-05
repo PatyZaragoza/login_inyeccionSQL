@@ -1,3 +1,4 @@
+/* Patricia Zaragoza Palma*/
 <?php
 $servidor = "localhost";
 $usuario = "root";
